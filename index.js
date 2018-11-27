@@ -24,3 +24,14 @@ connection.end();
 for (var i = 0; i < array.length; i++) {
   array[i]
 }
+
+
+if (true) {
+  switch (expression) {
+    case expression:
+
+      break;
+    default:
+
+  }
+}
